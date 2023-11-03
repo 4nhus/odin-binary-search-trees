@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "esm": "^3.2.25"
+  }
+}
